@@ -4,7 +4,7 @@ This project focuses on analyzing data related to people's investment preference
 
 ## Dataset Description
 The dataset includes the following columns:
-Gender: Gender of the respondent (Male/Female).
+- Gender: Gender of the respondent (Male/Female).
 Age: Age of the respondent.
 Investment_Avenues: Indicates if the respondent has made any investments (Yes/No).
 Mutual_Funds, Equity_Market, Debentures, Government_Bonds, Fixed_Deposits, PPF, Gold, Stock_Market: Ratings (scale-based) on preferences for various investment types.

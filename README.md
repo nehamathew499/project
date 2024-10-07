@@ -1,5 +1,6 @@
-Project Overview
-This project focuses on analyzing data related to people's investment preferences, including demographics, investment avenues, and motivations for choosing certain types of investments. The dataset contains responses that detail gender, age, investment choices, reasons for choosing specific avenues, and savings objectives.
+# FINANCIAL ANALYSIS
+## Project Overview
+this project focuses on analyzing data related to people's investment preferences, including demographics, investment avenues, and   motivations for choosing certain types of investments. The dataset contains responses that detail gender, age, investment choices, reasons for choosing specific avenues, and savings objectives.
 
 Dataset Description
 The dataset includes the following columns:

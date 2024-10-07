@@ -1,1 +1,1 @@
-this project contains financiak analaysis in hospital system
+this project contains financial analaysis in hospital system
